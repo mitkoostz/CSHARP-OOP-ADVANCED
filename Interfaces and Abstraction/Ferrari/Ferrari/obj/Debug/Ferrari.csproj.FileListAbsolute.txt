@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Ferrari\Ferrari\bin\Debug\Ferrari.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Ferrari\Ferrari\bin\Debug\Ferrari.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Ferrari\Ferrari\bin\Debug\Ferrari.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Ferrari\Ferrari\obj\Debug\Ferrari.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Ferrari\Ferrari\obj\Debug\Ferrari.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Ferrari\Ferrari\obj\Debug\Ferrari.pdb

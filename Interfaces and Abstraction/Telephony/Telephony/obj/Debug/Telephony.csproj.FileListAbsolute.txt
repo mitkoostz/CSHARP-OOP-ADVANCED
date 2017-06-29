@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\Telephony.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\Telephony.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\Telephony.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\Telephony.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\Telephony.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\Telephony.pdb

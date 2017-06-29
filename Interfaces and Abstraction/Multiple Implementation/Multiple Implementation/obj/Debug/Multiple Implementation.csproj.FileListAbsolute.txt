@@ -1,0 +1,1 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Multiple Implementation\Multiple Implementation\bin\Debug\Multiple Implementation.exe.config

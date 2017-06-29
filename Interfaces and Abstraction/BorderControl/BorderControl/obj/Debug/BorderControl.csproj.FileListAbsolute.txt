@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControl\BorderControl\bin\Debug\BorderControl.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControl\BorderControl\bin\Debug\BorderControl.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControl\BorderControl\bin\Debug\BorderControl.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControl\BorderControl\obj\Debug\BorderControl.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControl\BorderControl\obj\Debug\BorderControl.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControl\BorderControl\obj\Debug\BorderControl.pdb

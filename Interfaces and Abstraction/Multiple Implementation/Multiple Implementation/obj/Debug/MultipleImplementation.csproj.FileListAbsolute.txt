@@ -1,0 +1,6 @@
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Multiple Implementation\Multiple Implementation\obj\Debug\MultipleImplementation.csprojResolveAssemblyReference.cache
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Multiple Implementation\Multiple Implementation\bin\Debug\Multiple Implementation.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Multiple Implementation\Multiple Implementation\bin\Debug\Multiple Implementation.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Multiple Implementation\Multiple Implementation\bin\Debug\Multiple Implementation.pdb
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Multiple Implementation\Multiple Implementation\obj\Debug\Multiple Implementation.exe
+D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\Multiple Implementation\Multiple Implementation\obj\Debug\Multiple Implementation.pdb
