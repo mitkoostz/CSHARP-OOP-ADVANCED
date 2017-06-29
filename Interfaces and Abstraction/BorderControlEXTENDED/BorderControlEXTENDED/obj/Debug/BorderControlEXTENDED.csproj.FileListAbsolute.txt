@@ -4,3 +4,6 @@ D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderContr
 D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControlEXTENDED\BorderControlEXTENDED\obj\Debug\BorderControlEXTENDED.csprojResolveAssemblyReference.cache
 D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControlEXTENDED\BorderControlEXTENDED\obj\Debug\BorderControlEXTENDED.exe
 D:\SOFTUNI\C#\HOMEWORKS\C# OOP ADVANCED !\Interfaces and Abstraction\BorderControlEXTENDED\BorderControlEXTENDED\obj\Debug\BorderControlEXTENDED.pdb
+D:\SOFTUNI\C#\HOMEWORKS\CSHARP-OOP-ADVANCED\Interfaces and Abstraction\BorderControlEXTENDED\BorderControlEXTENDED\bin\Debug\BorderControlEXTENDED.exe.config
+D:\SOFTUNI\C#\HOMEWORKS\CSHARP-OOP-ADVANCED\Interfaces and Abstraction\BorderControlEXTENDED\BorderControlEXTENDED\obj\Debug\BorderControlEXTENDED.exe
+D:\SOFTUNI\C#\HOMEWORKS\CSHARP-OOP-ADVANCED\Interfaces and Abstraction\BorderControlEXTENDED\BorderControlEXTENDED\obj\Debug\BorderControlEXTENDED.pdb
